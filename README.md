@@ -182,7 +182,3 @@ docker compose up -d
 3. **export** — отправка результатов в judging API
 
 ---
-
-## 📄 Лицензия
-
-Учебный проект, созданный для участия в **PROD 2026 Backend Olympiad**.
